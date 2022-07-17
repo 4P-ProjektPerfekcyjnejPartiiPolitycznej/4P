@@ -20,9 +20,9 @@ Projekt 4p jest podzielony na 5 części:
 [OkregiWyborcze](https://github.com/4P-ProjektPerfekcyjnejPartiiPolitycznej/OkregiWyborcze) -  wybranie dla każdego z 41 okręgów wyborczych jednej specjalizacji, oraz zasad na podstawie których startują z niego kandydaci na posłów.
 
  
-[PLN21](https://github.com/4P-ProjektPerfekcyjnejPartiiPolitycznej/PLN21) - projekt partii politycznej złożonej z niezależnych ekspertów dla każdej specjalizacji wybranej w projekcie OkregiWyborcze.
+[PLN21](https://github.com/4P-ProjektPerfekcyjnejPartiiPolitycznej/PLN21) - projekt partii politycznej(Partia Ludzi Niezależnych XXI wieku) złożonej z niezależnych ekspertów dla każdej specjalizacji wybranej w projekcie OkregiWyborcze.
 
-[HipPop](https://github.com/4P-ProjektPerfekcyjnejPartiiPolitycznej/HipPop) - nowoczesna(hip) partia organizacji pozarządowych. Danie organizacją pozarządową opcji do wystawienia swoich kandydatów do specjalizacji wybranych w projekcie OkregiWyborcze.
+[HipPop](https://github.com/4P-ProjektPerfekcyjnejPartiiPolitycznej/HipPop) - nowoczesna(hip) partia organizacji pozarządowych. Danie organizacjom pozarządowym możliwości wystawienia swoich kandydatów do specjalizacji wybranych w projekcie OkregiWyborcze.
 
 [Elektroniczne Referendum](https://github.com/4P-ProjektPerfekcyjnejPartiiPolitycznej/ElektroniczneReferendum) - stworzenie przejrzystego systemu do referendum online, aby o kwestiach światopoglądowych, w tworzonej partii, decydowali obywatele.
 
